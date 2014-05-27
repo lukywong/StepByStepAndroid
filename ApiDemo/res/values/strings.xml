@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApiDemo</string>
+    <string name="hello_world"></string>
+    <string name="tips">Press back button and notice we do not see previous activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_forward_target">ForwardTarget</string>
+
+</resources>

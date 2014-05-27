@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlertDialogSamples</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1String">OK Cancel dialog with a message</string>
+    <string name="button2String">OK Cancel dialog with a long message</string>
+    <string name="button3String">List dialog</string>
+    <string name="button4String">Progress dialog</string>
+    <string name="button5String">Single choice list</string>
+    <string name="button6String">Repeat alarm</string>
+    <string name="button7String">Text entry dialog</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_close">Close</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="button2lLongString">ANTLR is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It is widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.</string>
+
+</resources>
